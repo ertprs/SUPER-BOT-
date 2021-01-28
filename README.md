@@ -16,7 +16,7 @@
 ```bash
 > git clone https://github.com/HasamiAini/Bot_Takagisan.git
 ```
-## <"Thank you very much for providing width ="50px"> <img src="https://media1.giphy.com/media/Uv7jgxwTFaTGWlaQcR/giphy.gif" width="50px">
+### Thank you very much for providing width <img src="https://media1.giphy.com/media/Uv7jgxwTFaTGWlaQcR/giphy.gif" width="50px">
 
 ### FERRAMENTAS <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="29px">
 Prepare as ferramentas e materiais.
