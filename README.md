@@ -7,8 +7,7 @@
 
 
 
-# MADE IN ExTRUPÍCIO <img src="https://media0.giphy.com/media/fVc6G5zbFwxo2YGXIP/giphy.gif
-" width="60px">
+# MADE IN ExTRUPÍCIO <img src="https://media0.giphy.com/media/fVc6G5zbFwxo2YGXIP/giphy.gif" width="60px">
 
 ```
 ## ATTENTION
@@ -89,4 +88,4 @@ INSTALAÇÃO:
 |       ✅        |   Banir todo mundo              |
 
 
-<img src="https://media0.giphy.com/media/GYtblmdLnemlO/giphy.gif?cid=ecf05e47gyt1zjo9gnxo16ragtrl1sk84b1ejukzluou8ay1&rid=giphy.gif" alt="Anime" width="600" />
+     <img src="https://media0.giphy.com/media/GYtblmdLnemlO/giphy.gif?cid=ecf05e47gyt1zjo9gnxo16ragtrl1sk84b1ejukzluou8ay1&rid=giphy.gif" alt="Anime" width="600" />
